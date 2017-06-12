@@ -1,0 +1,31 @@
+{
+  "name": "tsify-transform",
+  "version": "1.0.0",
+  "description": "Browserify-compatible typescript compiler stream transformer (typescript v2+)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'N/A'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkalen/tsify-transform.git"
+  },
+  "keywords": [
+    "browserify-transform",
+    "transform",
+    "typescript",
+    "tsify",
+    "typescriptify",
+    "typescriptifier"
+  ],
+  "author": "danielkalen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielkalen/tsify-transform/issues"
+  },
+  "homepage": "https://github.com/danielkalen/tsify-transform#readme",
+  "dependencies": {
+    "through2": "^2.0.3",
+    "typescript": "^2.3.4"
+  }
+}
