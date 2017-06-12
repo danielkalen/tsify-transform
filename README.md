@@ -1,6 +1,5 @@
 # tsify-transform
-[![Coverage](.config/badges/coverage.png?raw=true)](https://github.com/danielkalen/<package>)
-[![NPM](https://img.shields.io/npm/v/<package>.svg)](https://npmjs.com/package/<package>)
+[![NPM](https://img.shields.io/npm/v/<package>.svg)](https://npmjs.com/package/tsify-transform)
 
 Simple typescript compiler stream transformer that is meant to be used with [http://ghub.io/browserify](browserify) or [http://ghub.io/simplyimport](simplyimport) as a transformer stream.
 
